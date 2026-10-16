@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunpy/sunkit-dem/commit/e5dacc21c84c071aabf6e563e52044ac007726b5",
       "git:hexsha": "e5dacc21c84c071aabf6e563e52044ac007726b5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
